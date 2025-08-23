@@ -204,15 +204,15 @@ pipe token-usage
 </div>
 
 
-### [Join the Pipe Dc](https://discord.gg/fhVwSe8j)
+### [Join the Pipe Dc](https://discord.gg/CznDWkwwF2)
 
 ## Role Requirement👇
 
 <img width="1705" height="497" alt="image" src="https://github.com/user-attachments/assets/629ba008-99e5-4e46-8c79-e9febc8c06e1" />
 
-### Upload Your File from: [Upload a File](https://github.com/Mayankgg01/Pipe-Firestarter-Storage-Node?tab=readme-ov-file#upload-a-file)
+### Upload Your File from: [Upload a File](https://github.com/parikshit319/Pipe-Storage-Node?tab=readme-ov-file#upload-a-file)
 
-### Get public link of your upload files from: [Create Public Link](https://github.com/Mayankgg01/Pipe-Firestarter-Storage-Node?tab=readme-ov-file#create-public-link)
+### Get public link of your upload files from: [Create Public Link](https://github.com/parikshit319/Pipe-Storage-Node?tab=readme-ov-file#create-public-link)
 
 Done✔️
 
