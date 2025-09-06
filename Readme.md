@@ -121,7 +121,7 @@ nano ~/.pipe-cli.json
 #### Enter the Refer Code:
 
 ```
-pipe referral apply SPARTAN-UBKV
+pipe referral apply PARIKSHI-JJ3M
 ```
 
 #### Get Your referral code:
